@@ -1,0 +1,29 @@
+# Logs
+*.log
+*.err
+
+# Database dumps
+*.sql
+*.sql.gz
+*.dump
+
+# MySQL system directories (accidental)
+mysql/
+var/
+run/
+
+# Temp files
+*.tmp
+*.out
+*.bak
+*~
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+.Trash-*
